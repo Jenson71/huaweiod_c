@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cprimer\\huaweiod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697FC652-7D5B-4D6F-9A2B-9E064F566C31}|huaweiod.vcxproj|D:\\Cprimer\\huaweiod\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{697FC652-7D5B-4D6F-9A2B-9E064F566C31}|huaweiod.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Cprimer\\huaweiod\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Cprimer\\huaweiod\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAYEAAAAAAAAAAAAABcEAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-04T01:35:29.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
